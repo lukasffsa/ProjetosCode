@@ -1,0 +1,39 @@
+* {
+    background-color: rgb(247, 237, 249);
+}
+
+.center {
+    text-align: center;
+}
+
+table, td {
+    border: 1px solid lightblue;
+    margin: auto; 
+    padding: 2px; 
+}
+
+h2 {
+    color: purple;
+    font-family:'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    font-family:'Courier New', Courier, serif;
+    color: rgb(71, 42, 128);
+}
+
+th {
+    background-color: lightblue;
+}
+
+.cascade-mono {
+    font-family: 'Cascadia Mono';
+    font-weight: lighter;
+    background-color: white;
+}
+
+td {
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+}

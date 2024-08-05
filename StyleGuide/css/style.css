@@ -1,0 +1,78 @@
+.container {
+    border: 1px solid gray;
+    margin: 3px 5%;
+    padding-bottom: 2%;
+}
+
+.color {
+    display: inline;
+    padding: 30px 50px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    margin: 3%;
+    text-align: justify;
+    font-family: Poppins;
+    color: rgb(0, 0, 0);
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro';
+}
+
+.nunito-sans {
+    font-family: 'Nunito Sans';
+}
+
+.poppins {
+    font-family: Poppins;
+}
+
+h3 {
+    text-decoration: underline;
+    padding: 10px;
+}
+
+h2 {
+    Font-weight: 500;
+    Font-size: 18px;
+    Font-family: Poppins;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+h1, h2 {
+    Font-weight: 700 (bold);
+    Font-size: 26px;
+    Font-family: 'Nunito Sans';
+    padding: 10px;
+}
+
+p {
+    Font-weight: 400;
+    Font-size: 14px;
+    Font-family: Poppins;
+    padding: 10px;
+}
+
+
+#blue {
+    background-color: #2d5dcc;
+}
+
+#pink {
+    background-color: #d957d9;
+}
+
+#green {
+    background-color: #4fe0b0;
+}
+
+#beige {
+    background-color: #efd9ca;
+}
