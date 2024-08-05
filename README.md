@@ -1,1 +1,1 @@
-*Pasta com todos os projetos pela codecademy do curso de full-stack*
+*Pasta com os projetos da codecademy do curso de full-stack*
